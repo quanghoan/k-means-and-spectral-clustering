@@ -1,1 +1,1 @@
-# k-means-and-spectral-clustering
+# kmeans-and-spectral-clustering
